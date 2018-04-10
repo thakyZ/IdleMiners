@@ -1,0 +1,16 @@
+{
+  "input" : [
+	{ "item" : "ironore", "count" : 10 },
+	{ "item" : "copperore", "count" : 6 },
+	{ "item" : "cobblestonematerial", "count" : 20 },
+	{ "item" : "darkwoodmaterial", "count" : 10 },
+	{ "item" : "corefragmentore", "count" : 5 },
+	{ "item" : "coalore", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "minersbmd",
+    "count" : 1
+  },
+  "duration" : 5.00,
+  "groups" : [ "plain", "craftingfurniture", "materials", "all" ]
+}

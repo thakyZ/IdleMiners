@@ -1,0 +1,11 @@
+{
+	"name" : "idleminers",
+	"path" : ".",
+	"requires" : [],
+	"includes" : [],
+	"metadata" : {
+		"author" : "DraLUSAD",
+		"description" : "Broken down from ISE4, brings a separate mod for Vanilla use, Electric Miners",
+		"version" : "ALPHA 0.1.2"
+	}
+}

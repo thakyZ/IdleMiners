@@ -1,0 +1,12 @@
+[
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minersbmd" }},
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minersemdmk1" }},
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minersemdmk2" }},
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minersemdmk3" }},
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minersemdmk4" }},
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minersemdmk5" }},
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minersemdmk6" }},
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minersemdmk7" }},
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minerssalvage" }},
+ {"op":"add","path":"/defaultBlueprints/tier1/-","value": { "item" : "minersmoon" }}
+]

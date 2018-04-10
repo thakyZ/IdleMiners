@@ -1,0 +1,16 @@
+{
+  "input" : [
+	{ "item" : "minersemdmk1", "count" : 1 },
+	{ "item" : "minersemdmk2", "count" : 1 },
+	{ "item" : "minersemdmk3", "count" : 1 },
+	{ "item" : "minersemdmk4", "count" : 1 },
+	{ "item" : "minersemdmk5", "count" : 1 },
+	{ "item" : "minersemdmk6", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "minersemdmk7",
+    "count" : 1
+  },
+  "duration" : 5.00,
+  "groups" : [ "inventorstable3", "craftingstations", "all" ]
+}

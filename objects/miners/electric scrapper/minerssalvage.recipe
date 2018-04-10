@@ -1,0 +1,18 @@
+{
+  "input" : [
+	{ "item" : "minersemdmk3", "count" : 1 },
+	{ "item" : "salvagebooster", "count" : 5 },
+	{ "item" : "salvagelegs", "count" : 5 },
+	{ "item" : "salvagearm", "count" : 5 },
+	{ "item" : "salvagebody", "count" : 5 },
+	{ "item" : "titaniumbar", "count" : 50 },
+	{ "item" : "corefragmentore", "count" : 50 },
+	{ "item" : "diamond", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "minerssalvage",
+    "count" : 1
+  },
+  "duration" : 5.00,
+  "groups" : [ "inventorstable2", "craftingstations", "all" ]
+}

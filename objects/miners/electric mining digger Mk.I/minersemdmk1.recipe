@@ -1,0 +1,18 @@
+{
+  "input" : [
+	{ "item" : "minersbmd", "count" : 1 },
+	{ "item" : "ironbar", "count" : 15 },
+	{ "item" : "copperbar", "count" : 5 },
+	{ "item" : "cobblestonematerial", "count" : 30 },
+	{ "item" : "darkwoodmaterial", "count" : 20 },
+	{ "item" : "corefragmentore", "count" : 10 },
+	{ "item" : "ironore", "count" : 20 },
+	{ "item" : "diamond", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "minersemdmk1",
+    "count" : 1
+  },
+  "duration" : 5.00,
+  "groups" : [ "inventorstable", "craftingstations", "all" ]
+}

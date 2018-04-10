@@ -1,0 +1,18 @@
+{
+  "input" : [
+	{ "item" : "minersemdmk5", "count" : 1 },
+	{ "item" : "refinedaegisalt", "count" : 15 },
+	{ "item" : "refinedferozium", "count" : 15 },
+	{ "item" : "refinedviolium", "count" : 15 },
+	{ "item" : "battery", "count" : 3 },
+	{ "item" : "siliconboard", "count" : 20 },
+	{ "item" : "wire", "count" : 80 },
+	{ "item" : "solariumstar", "count" : 50 }
+  ],
+  "output" : {
+    "item" : "minersemdmk6",
+    "count" : 1
+  },
+  "duration" : 5.00,
+  "groups" : [ "inventorstable3", "craftingstations", "all" ]
+}

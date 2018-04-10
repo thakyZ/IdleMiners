@@ -1,0 +1,18 @@
+{
+  "input" : [
+	{ "item" : "minersemdmk3", "count" : 1 },
+	{ "item" : "durasteelbar", "count" : 15 },
+	{ "item" : "silverbar", "count" : 5 },
+	{ "item" : "battery", "count" : 1 },
+	{ "item" : "siliconboard", "count" : 5 },
+	{ "item" : "wire", "count" : 20 },
+	{ "item" : "durasteelore", "count" : 20 },
+	{ "item" : "diamond", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "minersemdmk4",
+    "count" : 1
+  },
+  "duration" : 5.00,
+  "groups" : [ "inventorstable2", "craftingstations", "all" ]
+}

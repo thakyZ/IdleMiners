@@ -1,0 +1,17 @@
+{
+  "input" : [
+	{ "item" : "minersemdmk2", "count" : 1 },
+	{ "item" : "moonrock", "count" : 150 },
+	{ "item" : "moondust", "count" : 150 },
+	{ "item" : "solidfuel", "count" : 250 },
+	{ "item" : "breathprotectionback", "count" : 1 },
+	{ "item" : "corefragmentore", "count" : 20 },
+	{ "item" : "diamond", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "minersmoon",
+    "count" : 1
+  },
+  "duration" : 5.00,
+  "groups" : [ "inventorstable2", "craftingstations", "all" ]
+}
